@@ -1,5 +1,5 @@
 # appegic-task-backend
-run npm install / yarn to add all the dependencies
+below are the steps to run the application successfully
 
 # Steps to run the application
 Here is the available scripts to follow
